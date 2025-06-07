@@ -2,9 +2,9 @@
 
 ## I'm the anti-GNU, maybe, but in the way that counts
 
-I'm writing my own tools
-I'm owning my ecosystem
-I'm making sure it serves me, not just ideology
+* I'm writing my own tools
+* I'm owning my ecosystem
+* I'm making sure it serves me, not just ideology
 
 And really, that's the most UNIX thing I can do.
 
