@@ -2,7 +2,7 @@
 
 ## I'm the anti-GNU, maybe, but in the way that counts
 
-* I'm writing my own tools
+* I'm vibe coding my own tools
 * I'm owning my ecosystem
 * I'm making sure it serves me, not just ideology
 
